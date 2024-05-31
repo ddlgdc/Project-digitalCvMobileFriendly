@@ -141,6 +141,11 @@ html, body{
     cursor: pointer;
 }
 
+.links:hover{
+    color: red;
+    font-size: 18px;
+}
+
 .contactForm button:hover {
     background-color: rgb(51, 251, 224);
     color: black;
